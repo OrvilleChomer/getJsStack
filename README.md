@@ -1,2 +1,4 @@
 # getJsStack()
-Returns an object which contains  the JavaScript call stack information
+A JavaScript function that returns an object which contains JavaScript call stack information at the time it is called.
+
+The repo includes a test page to see it in action.
